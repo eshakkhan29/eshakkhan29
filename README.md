@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋 My name is MD Eshak Khan.<br>I am a Front-End Developer | React JS Developer</h2>
 
 ###
 
@@ -9,14 +9,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/eshakkhan29/eshakkhan29/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eshakkhan29/count.svg?"  />
-</div>
 
 ###
